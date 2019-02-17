@@ -186,7 +186,7 @@
         <profile>
             <id>payara5</id>
             <properties>
-                <arquillian.container>payara:5.182:managed</arquillian.container>
+                <arquillian.container>payara:5.184:managed</arquillian.container>
             </properties>
         </profile>    
         <profile>
