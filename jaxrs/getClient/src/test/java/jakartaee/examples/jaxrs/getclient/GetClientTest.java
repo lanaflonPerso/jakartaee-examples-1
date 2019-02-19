@@ -12,7 +12,7 @@
  */
 package jakartaee.examples.jaxrs.getclient;
 
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import java.io.File;
 import java.net.URL;
 import javax.ws.rs.client.Client;

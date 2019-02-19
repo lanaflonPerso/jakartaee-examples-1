@@ -25,7 +25,7 @@ import javax.websocket.Session;
 import org.glassfish.tyrus.client.ClientManager;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.container.test.api.RunAsClient;
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import org.arquillian.container.chameleon.runner.ArquillianChameleon;
 import org.jboss.arquillian.test.api.ArquillianResource;
 import static org.jboss.shrinkwrap.api.ShrinkWrap.create;

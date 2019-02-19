@@ -42,12 +42,10 @@
         <module>viewMap</module>
         <module>viewScoped</module>
     </modules>
-    
     <dependencies>
         <dependency>
-            <!-- provides @JakartaEEServer arquillian annotation -->
              <groupId>jakartaee.examples</groupId>
-             <artifactId>test-commons</artifactId>
+             <artifactId>utils</artifactId>
              <version>${project.version}</version>
              <scope>test</scope>
         </dependency>    

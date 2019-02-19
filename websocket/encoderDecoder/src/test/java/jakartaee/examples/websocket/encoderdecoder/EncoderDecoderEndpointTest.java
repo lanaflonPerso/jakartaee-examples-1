@@ -12,7 +12,7 @@
  */
 package jakartaee.examples.websocket.encoderdecoder;
 
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import java.io.File;
 import java.io.IOException;
 import java.net.URI;

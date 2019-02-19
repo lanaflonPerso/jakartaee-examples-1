@@ -6,9 +6,9 @@
         <artifactId>project</artifactId>
         <version>8-SNAPSHOT</version>
     </parent>
-    <artifactId>test-commons</artifactId>
+    <artifactId>utils</artifactId>
     <packaging>jar</packaging>
-    
+    <name>Utilities (for testing)</name>
     <dependencies>
         <dependency>
             <groupId>org.arquillian.container</groupId>
@@ -16,5 +16,5 @@
             <scope>provided</scope>
             <version>1.0.0.CR3</version>
         </dependency>
-    </dependencies>    
+    </dependencies>
 </project>

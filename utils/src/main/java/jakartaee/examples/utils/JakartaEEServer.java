@@ -10,7 +10,7 @@
  * OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
-package jakartaee.examples.test.commons;
+package jakartaee.examples.utils;
 
 import org.arquillian.container.chameleon.api.ChameleonTarget;
 import java.lang.annotation.Documented;

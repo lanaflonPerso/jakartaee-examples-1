@@ -24,7 +24,7 @@
     <dependencies>
         <dependency>
              <groupId>jakartaee.examples</groupId>
-             <artifactId>test-commons</artifactId>
+             <artifactId>utils</artifactId>
              <version>${project.version}</version>
              <scope>test</scope>
         </dependency>    

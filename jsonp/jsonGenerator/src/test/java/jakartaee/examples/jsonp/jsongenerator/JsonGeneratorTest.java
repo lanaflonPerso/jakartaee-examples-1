@@ -20,7 +20,7 @@ import org.arquillian.container.chameleon.runner.ArquillianChameleon;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.container.test.api.RunAsClient;
 import org.jboss.arquillian.test.api.ArquillianResource;
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import static org.jboss.shrinkwrap.api.ShrinkWrap.create;
 import org.jboss.shrinkwrap.api.spec.WebArchive;
 import org.junit.After;

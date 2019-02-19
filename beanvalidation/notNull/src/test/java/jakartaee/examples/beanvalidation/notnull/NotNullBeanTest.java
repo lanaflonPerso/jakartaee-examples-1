@@ -15,7 +15,7 @@ package jakartaee.examples.beanvalidation.notnull;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlInput;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import org.arquillian.container.chameleon.runner.ArquillianChameleon;
 import java.io.File;
 import java.net.URL;

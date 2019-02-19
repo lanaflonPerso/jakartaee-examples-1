@@ -14,7 +14,7 @@ package jakartaee.examples.servlet.httpservletmapping;
 
 import com.gargoylesoftware.htmlunit.TextPage;
 import com.gargoylesoftware.htmlunit.WebClient;
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import java.net.URL;
 import org.arquillian.container.chameleon.runner.ArquillianChameleon;
 import org.jboss.arquillian.container.test.api.Deployment;

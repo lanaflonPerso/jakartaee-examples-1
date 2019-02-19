@@ -156,7 +156,7 @@
         <module>jsonp</module>
         <module>servlet</module>
         <module>websocket</module>
-        <module>test-commons</module>
+        <module>utils</module>
     </modules>
     <profiles>
         <profile>

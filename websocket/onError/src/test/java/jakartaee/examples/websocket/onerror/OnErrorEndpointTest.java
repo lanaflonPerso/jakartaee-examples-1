@@ -12,7 +12,7 @@
  */
 package jakartaee.examples.websocket.onerror;
 
-import jakartaee.examples.test.commons.JakartaEEServer;
+import jakartaee.examples.utils.JakartaEEServer;
 import java.io.File;
 import java.net.URI;
 import java.net.URL;

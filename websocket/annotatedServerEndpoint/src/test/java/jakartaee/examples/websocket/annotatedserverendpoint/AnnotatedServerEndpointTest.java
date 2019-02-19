@@ -12,8 +12,7 @@
  */
 package jakartaee.examples.websocket.annotatedserverendpoint;
 
-import jakartaee.examples.test.commons.JakartaEEServer;
-import jakartaee.examples.websocket.annotatedserverendpoint.AnnotatedServerEndpoint;
+import jakartaee.examples.utils.JakartaEEServer;
 import java.io.File;
 import java.io.IOException;
 import java.net.URI;
