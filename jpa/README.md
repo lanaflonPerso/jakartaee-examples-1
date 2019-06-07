@@ -14,3 +14,4 @@
 12. [An @Inheritance example (Single Table)](singleTableInheritance/README.md)
 13. [An @Inheritance example (Joined)](joinedInheritance/README.md)
 14. [An @Inheritance example (Table-per-Concrete-Class)](tablePerConcreteClassInheritance/README.md)
+15. [An Optimistic Lock example](optimisticLock/README.md)

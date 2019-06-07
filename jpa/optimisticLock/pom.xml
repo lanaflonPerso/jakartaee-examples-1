@@ -9,13 +9,13 @@
         <groupId>jakartaee.examples.jpa</groupId>
         <version>8-SNAPSHOT</version>
     </parent>
-    <artifactId>singleTableInheritance</artifactId>
+    <artifactId>optimisticLock</artifactId>
     <packaging>war</packaging>
-    <name>An @Inheritance example (Single Table)</name>
+    <name>A Locking mode example (Optimistic Locking)</name>
     <dependencies>
         <dependency>
             <groupId>javax</groupId>
-            <artifactId>javaee-web-api</artifactId>
+            <artifactId>javaee-api</artifactId>
             <scope>provided</scope>
         </dependency>
     </dependencies>

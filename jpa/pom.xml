@@ -25,5 +25,6 @@
         <module>singleTableInheritance</module>
         <module>joinedInheritance</module>
         <module>tablePerConcreteClassInheritance</module>
-  </modules>
+    <module>optimisticLock</module>
+    </modules>
 </project>
