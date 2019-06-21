@@ -1,6 +1,6 @@
 # JakartaEE Examples
 
-1. [Bean Validation examples](beanvaldiation/README.md)
+1. [Bean Validation examples](beanvalidation/README.md)
 2. [EE Security examples](eesecurity/README.md)
 3. [EJB examples](ejb/README.md)
 4. [JAX-RS examples](jaxrs/README.md)
