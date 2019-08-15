@@ -1,3 +1,12 @@
+# Important
+
+This repository has been donated to the Eclipse Foundation, click [here](https://github.com/eclipse-ee4j/jakartaee-examples) to go to its new home.
+
+```
+This repository has been deprecated and will be removed August 1st, 2020.
+```
+
+
 # JakartaEE Examples
 
 1. [Bean Validation examples](beanvalidation/README.md)
